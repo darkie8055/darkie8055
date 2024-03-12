@@ -62,7 +62,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/darkie8055/darkie8055/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/darkie8055/darkie8055/output/snake.yml" alt="Snake animation" />
 
 ###
 
