@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 20XX, and turning them into features since then!<br>📚 I'm currently learning the intricate dance of code optimization and exploring the realms of machine learning.<br>🎯 Goals: Mastering the art of crafting elegant solutions to complex problems and contributing to open source projects that make a difference.<br>🎲 Fun fact: I once wrote a program that generated random jokes, but it kept telling me I had a "syntax error" in my sense of humor!</p>
+<p align="left">✨ Creating bugs since 2019, and turning them into features since then!<br>📚 I'm currently learning the intricate dance of code optimization and exploring the realms of machine learning.<br>🎯 Goals: Mastering the art of crafting elegant solutions to complex problems and contributing to open source projects that make a difference.<br>🎲 Fun fact: I once wrote a program that generated random jokes, but it kept telling me I had a "syntax error" in my sense of humor!</p>
 
 ###
 
